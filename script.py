@@ -214,7 +214,7 @@ class Maze():
 
         img.save(filename)
 
-m = Maze('maze3 (1).txt')
+m = Maze('maze2 (1).txt')
 print("Maze:")
 m.print()
 print("Solving...")
